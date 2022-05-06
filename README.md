@@ -1,5 +1,5 @@
 # DU-Book
-For samples codes of the deep unfolding book.
+For samples codes of the forthcoming deep unfolding book.
 
 
 Copyright (c) 2022 Tadashi Wadayama  
